@@ -452,13 +452,10 @@ hr{
 .stat_item{
     width: 20%;
     border-left: 1px solid #b5eae0;
+	border-right: 1px solid #b5eae0;
     text-align: center;
     color: white;
     padding: 70px 25px;
-}
-
-.stat_item:last-child{
-    border-right: 1px solid #b5eae0;
 }
 
 .stat_count{
